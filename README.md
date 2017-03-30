@@ -176,6 +176,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
 2. [Android中Context详解 ---- 你所不知道的Context](http://blog.csdn.net/qinjuning/article/details/7310620)
 3. [Difference between getContext() , getApplicationContext() , getBaseContext() and “this”](http://stackoverflow.com/questions/10641144/difference-between-getcontext-getapplicationcontext-getbasecontext-and)
+4. [[干货]让你彻底搞懂Context到底是什么，如果没弄明白，还怎么做Android开发？](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547681&idx=1&sn=cf600ed5a92ce5fe100e8478ba0c55b4&scene=21#wechat_redirect)
 
 ### CoordinatorLayout
 
